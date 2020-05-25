@@ -1,0 +1,46 @@
+
+body{background-color: #FFDEAD ;}
+
+
+
+
+
+.cover{display: block;
+	align-items: center;
+	justify-content: center;
+	height: 30vh;
+	background-color:#FAEBD7}
+
+	#title{text-align: center;}
+
+	figure{display: block;
+		align-content: center;
+		margin-bottom: 2em;
+		height: 40vh;
+	}
+
+	img{
+	 max-width: 100%;
+    display: block;
+    height: 25em;
+    margin: 0 auto;}
+
+    img:hover { transform: scale(1.5);
+ }
+
+    #image{height: auto;
+    	padding: 20 10 20 10;}
+
+
+
+
+
+#tribute-info{display: block;
+text-align: center;}
+
+ul{text-align: justify;}
+
+
+
+
+
